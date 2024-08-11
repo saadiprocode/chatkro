@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "144208948409",
+    "project_id": "chatkro-7fd82",
+    "storage_bucket": "chatkro-7fd82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144208948409:android:c8b26fb2173672232bff68",
+        "android_client_info": {
+          "package_name": "com.example.chatkro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB2zeBkP3FeudpGceqm_Z7PN9SwmFUEgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
